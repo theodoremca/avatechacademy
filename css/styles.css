@@ -1280,13 +1280,13 @@ fieldset[disabled] .button.is-link.is-inverted.is-outlined {
   color: #797492;
 }
 .button.is-info {
-  background-color: #12363b;
+  background-color: #0eb582;
   border-color: transparent;
   color: #eff7f6;
 }
 .button.is-info:hover,
 .button.is-info.is-hovered {
-  background-color: #171338;
+  background-color: #12363b;
   border-color: transparent;
   color: #eff7f6;
 }
@@ -1301,13 +1301,13 @@ fieldset[disabled] .button.is-link.is-inverted.is-outlined {
 }
 .button.is-info:active,
 .button.is-info.is-active {
-  background-color: #13102f;
+  background-color: #12363b;
   border-color: transparent;
   color: #eff7f6;
 }
 .button.is-info[disabled],
 fieldset[disabled] .button.is-info {
-  background-color: #12363b;
+  background-color: #0eb582;
   border-color: transparent;
   box-shadow: none;
 }
